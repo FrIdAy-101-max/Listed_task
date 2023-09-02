@@ -1,4 +1,3 @@
-# Listed_task
 
 # Voice Cloning with VITS
 This repository contains the code and resources for a voice cloning project using the VITS (Variational Inference for Text-to-Speech) model. The project aims to clone a given voice and replicate it for a given text.
